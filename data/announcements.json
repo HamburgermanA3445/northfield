@@ -1,0 +1,4 @@
+{
+  "_howToEdit": "Newest first. The Announcements section stays hidden while this list is empty. Each item: date (YYYY-MM-DD), title, text, and optional link + linkLabel. Example: {\"date\": \"2026-11-10\", \"title\": \"The 2027 calendar is here\", \"text\": \"Three styles, every size, one download.\", \"link\": \"https://www.etsy.com/shop/NorthfieldServices\", \"linkLabel\": \"See it on Etsy\"}",
+  "announcements": []
+}

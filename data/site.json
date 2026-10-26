@@ -1,0 +1,15 @@
+{
+  "_howToEdit": "Site-wide settings. contactEmail powers the Start a project button. showWebsitePricing: set to true to show websitePricingText in the websites section. links: a place appears under Find us only once its url is filled in.",
+  "etsyShopUrl": "https://www.etsy.com/shop/NorthfieldServices",
+  "contactEmail": "{CONTACT_EMAIL}",
+  "contactSubject": "New website project",
+  "showWebsitePricing": false,
+  "websitePricingText": "One-page websites from ${PRICE}",
+  "links": [
+    { "name": "Etsy", "note": "Templates and printables", "url": "https://www.etsy.com/shop/NorthfieldServices" },
+    { "name": "Pinterest", "note": "Ideas and new releases", "url": "" },
+    { "name": "YouTube", "note": "Walkthroughs and how-tos", "url": "" },
+    { "name": "Instagram", "note": "Behind the scenes", "url": "" },
+    { "name": "TikTok", "note": "Quick looks at new templates", "url": "" }
+  ]
+}

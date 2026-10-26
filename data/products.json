@@ -1,0 +1,49 @@
+{
+  "_howToEdit": "One entry per product, shown in this order. status: \"available\" (shows price + Etsy button) or \"coming-soon\". link: the Etsy listing URL; while it is empty or still a {PLACEHOLDER}, the button goes to the shop page. price: number as text, shown as \"from $X\" only when available. image: path without the size suffix; the site loads -720.webp and -1200.webp.",
+  "products": [
+    {
+      "id": "christmas-tracker",
+      "title": "Christmas Budget and Gift Tracker",
+      "category": "Spreadsheet",
+      "description": "An auto-calculating Excel and Google Sheets planner for gifts, cards, food, decorations and travel.",
+      "status": "available",
+      "price": "5.99",
+      "link": "{ETSY_LINK_CHRISTMAS}",
+      "image": "assets/img/products/christmas-tracker",
+      "imageAlt": "Christmas Budget and Gift Tracker dashboard open on a laptop, showing totals and a spending chart"
+    },
+    {
+      "id": "calendar-2027",
+      "title": "2027 Printable Calendar",
+      "category": "Printable",
+      "description": "Three styles in Letter, A4 and A5, with Sunday or Monday start and a tablet version.",
+      "status": "coming-soon",
+      "price": "3.99",
+      "link": "",
+      "image": "assets/img/products/calendar-2027",
+      "imageAlt": "Pages from the 2027 printable calendar in three styles"
+    },
+    {
+      "id": "marlowe-resume",
+      "title": "The Marlowe Resume Kit",
+      "category": "Resume",
+      "description": "A 1- and 2-page resume, cover letter, references and ATS version for Word and Google Docs.",
+      "status": "coming-soon",
+      "price": "12.50",
+      "link": "",
+      "image": "assets/img/products/marlowe-resume",
+      "imageAlt": "The Marlowe resume template shown as layered resume pages"
+    },
+    {
+      "id": "juniper-wedding",
+      "title": "Juniper Wedding Website Template",
+      "category": "Website",
+      "description": "A one-page wedding website with a working RSVP form, three color themes and a hosting guide.",
+      "status": "coming-soon",
+      "price": "24.00",
+      "link": "",
+      "image": "assets/img/products/juniper-wedding",
+      "imageAlt": "Juniper wedding website template shown on a desktop screen and a phone"
+    }
+  ]
+}
